@@ -18,3 +18,4 @@ builddir
 *.vmem
 *.log
 .cache
+lib/.wraplock
